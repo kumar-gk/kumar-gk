@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumar-gk
 - 👀 I’m interested in learning GIT and GIT HUB ...
-
+------------- new line added in local git ----------------
 
 <!---
 kumar-gk/kumar-gk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
